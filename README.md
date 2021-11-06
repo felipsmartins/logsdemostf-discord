@@ -1,2 +1,2 @@
 # logsdemostf-discord
-Post logs e demos from demos.tf/logs.tf to a Discord channel
+Post logs and demos from https://demos.tf and https://logs.tf to a Discord channel
